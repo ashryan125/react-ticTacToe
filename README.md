@@ -5,7 +5,8 @@ React's tic-tac-toe tutorial used as a refresher to React. Finished project is a
 ---
 
 ## Play the Game
-[Tic Tac Toe](https://ashryan125.github.io/react-ticTacToe/ )
+[Tic Tac Toe](https://ashryan125.github.io/react-ticTacToe/)
+
 
 ---
 
