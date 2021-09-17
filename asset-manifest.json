@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ashryan125/react-ticTacToe/static/css/main.6d64f486.chunk.css",
+    "main.js": "/ashryan125/react-ticTacToe/static/js/main.7647bc20.chunk.js",
+    "main.js.map": "/ashryan125/react-ticTacToe/static/js/main.7647bc20.chunk.js.map",
+    "runtime-main.js": "/ashryan125/react-ticTacToe/static/js/runtime-main.27890458.js",
+    "runtime-main.js.map": "/ashryan125/react-ticTacToe/static/js/runtime-main.27890458.js.map",
+    "static/js/2.12d1e1b0.chunk.js": "/ashryan125/react-ticTacToe/static/js/2.12d1e1b0.chunk.js",
+    "static/js/2.12d1e1b0.chunk.js.map": "/ashryan125/react-ticTacToe/static/js/2.12d1e1b0.chunk.js.map",
+    "index.html": "/ashryan125/react-ticTacToe/index.html",
+    "static/css/main.6d64f486.chunk.css.map": "/ashryan125/react-ticTacToe/static/css/main.6d64f486.chunk.css.map",
+    "static/js/2.12d1e1b0.chunk.js.LICENSE.txt": "/ashryan125/react-ticTacToe/static/js/2.12d1e1b0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27890458.js",
+    "static/js/2.12d1e1b0.chunk.js",
+    "static/css/main.6d64f486.chunk.css",
+    "static/js/main.7647bc20.chunk.js"
+  ]
+}
